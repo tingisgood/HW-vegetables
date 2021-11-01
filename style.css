@@ -7,7 +7,7 @@ body{
     width:1264px;
     height:940px;
     margin:0 auto;
-    margin-left:160px;
+    margin-left:320px;
 }
 
 .topic{
@@ -204,5 +204,5 @@ body{
   display:flex;
   justify-content: center;
   align-items: center;
-   margin-left:160px;
+   
 }
